@@ -210,7 +210,7 @@ Thank you for all.
 
     If you want to buy my coffee, you can send payments Paypal.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://t.me/cardingtutorialfreeindonesia)
+[![FollowUS](https://img.shields.io/github/followers/ahmadchenwangxuesi?label=FOLLOW&style=social)](https://t.me/cardingtutorialfreeindonesia)
 
 ## Disclaimer
 
